@@ -5,9 +5,9 @@
  - to develop a system that can automatically detect obscene comments in social media and also replace it with another word.
    
  ## List of contents in this Repo
- ml all algos with all scores - contains the code base for all ml algorithms that was experimented in this work
- lstm is the best - contains the LSTM implementation for the experiment
- Bi-lstm is also the best - contains the Bi-LSTM implementation for this experiment
+ - Machine Learning project all alogorithms 89,90,109 - contains the code base for all ml algorithms that was experimented in this work
+ - lstm is the best - contains the LSTM implementation for the experiment
+ - Bi-lstm is also the best - contains the Bi-LSTM implementation for this experiment
 
  More results will be out in the paper!
 
